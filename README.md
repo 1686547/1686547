@@ -3,7 +3,8 @@
 - ## ***👋¡Me presento!👋***
   ___
  ¡Hola!
-Soy Juan Antonio Moreno Moreno, estudiante de **1.º de DAM** (Desarrollo de Aplicaciones Multiplataforma A DISTANCIA! ✔)  
+Soy Juan Antonio Moreno Moreno  
+Estudiante de **1.º de DAM** (Desarrollo de Aplicaciones Multiplataforma A DISTANCIA! ✔)  
 En el centro ***I.E.S Los Albares*** 🏫 ( [Pagina Web del Instituto](https://www.ieslosalbares.es/))
 En la localidad de Cieza, dentro de Murcia  
 
