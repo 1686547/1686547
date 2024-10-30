@@ -1,12 +1,18 @@
-- 👋 Hola, soy Juan Antonio Moreno Moreno, estudiante de 1 de DAM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- # ***📖Repositorio Juan Antonio Moreno Moreno 📖***
+ ___
+- ## ***👋¡Me presento!👋***
+  ___
+ ¡Hola!
+Soy Juan Antonio Moreno Moreno, estudiante de ==**1.º de DAM**== (Desarrollo de Aplicaciones Multiplataforma ==A DISTANCIA! ✔==)
+En el centro ==***I.E.S Los Albares*** 🏫== ( [Pagina Web del Instituto](https://www.ieslosalbares.es/))
+En la localidad de Cieza, dentro de Murcia
 
-<!---
-1686547/1686547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Descripción de la imagen](https://picsum.photos/800/600)
+
+<img src="/MarkdownToolboxSmall.png" width="58" height="56"/>
+  
+
+
+
+
+
