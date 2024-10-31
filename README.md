@@ -11,7 +11,7 @@ En el centro ***I.E.S Los Albares*** 🏫 ( [Dejo la Pagina Web del Instituto](h
 
 En la localidad de *Cieza*, dentro de *Murcia* 🌍  
 
-En mi el grado de Desarrollo de Aplicaciones Multiplataforma se encuentran **modulos** como:  
+En mi el grado de Desarrollo de Aplicaciones Multiplataforma se encuentran **modulos** 💻 como:  
 
 - Base de Datos
 - Lenguaje de Marcas
@@ -22,6 +22,19 @@ En mi el grado de Desarrollo de Aplicaciones Multiplataforma se encuentran **mod
 - ~~Itinerario Personal para la Empleabilidad~~ (Convalidada)
 - Programacion
 - ~~Sistemas Informaticos~~ (Convalidada)
+
+
+Estoy familiarizado con algunas ***herramientas y tecnologias*** 🔧 como:
+
+- Java 
+- JavaScrip
+- HTML
+- Git
+- C++
+- C
+- VSCode
+
+
 
 
 
