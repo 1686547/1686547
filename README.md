@@ -34,9 +34,20 @@ Estoy familiarizado con algunas ***herramientas y tecnologias*** 🔧 como:
 - C
 - VSCode
 
-A lo largo de este curso se utlizaran diferentes tecnologias y herramientas como:
+A lo largo de este curso se utlizaran diferentes ***tecnologias y herramientas*** como:
 
-- sdf
+- **Frameworks**
+    - React
+    - Django
+    - Angular
+- **Software de Visualización**
+    * VirtualBox
+    * VMware
+- **Software como servicio**
+    + Office 365
+    + Google Workspace
+
+Algunas de mis preferencias en cuanto a la direccion que me gustaria tomar en el desarrollo 
 
 
 
