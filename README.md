@@ -23,7 +23,7 @@ En mi el grado de Desarrollo de Aplicaciones Multiplataforma se encuentran **mod
 - Programacion
 - ~~Sistemas Informaticos~~ (Convalidada)
 
-
+ ---
 Estoy familiarizado con algunas ***herramientas y tecnologias*** 🔧 como:
 
 - Java 
@@ -33,7 +33,7 @@ Estoy familiarizado con algunas ***herramientas y tecnologias*** 🔧 como:
 - C++
 - C
 - VSCode
-
+---
 A lo largo de este curso se utlizaran diferentes ***tecnologias y herramientas*** como:
 
 - **Frameworks**
@@ -46,9 +46,11 @@ A lo largo de este curso se utlizaran diferentes ***tecnologias y herramientas**
 - **Software como servicio**
     + Office 365
     + Google Workspace
-
-Algunas de mis preferencias en cuanto a la direccion que me gustaria tomar en el desarrollo 
-
+---
+En cuanto a mis preferencias en cuanto a la direccion que me gustaria tomar en el desarrollo seria:
+- Base de datos
+- Analista de datos
+---
 
 
 
