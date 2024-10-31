@@ -34,6 +34,9 @@ Estoy familiarizado con algunas ***herramientas y tecnologias*** 🔧 como:
 - C
 - VSCode
 
+A lo largo de este curso se utlizaran diferentes tecnologias y herramientas como:
+
+- sdf
 
 
 
